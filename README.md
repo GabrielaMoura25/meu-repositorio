@@ -2,4 +2,4 @@
 
 Repositorio de teste do curso movetech magalu | mulheres
 
-Versão A do repositório.
+Versão final do repositório (A + B combinados).
