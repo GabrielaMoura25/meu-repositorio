@@ -3,3 +3,5 @@
 Repositorio de teste do curso movetech magalu | mulheres
 
 Versão final do repositório (A + B combinados).
+
+Linha adicionada por engano.
